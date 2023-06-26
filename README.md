@@ -37,4 +37,6 @@ Dies hilft, Denial-of-Service (DoS)-Angriffe und Brute-Force-Angriffe einzudämm
 
 ## Schwierigkeiten
 Ich hatte einige Probleme, da ich anfangs einiges schwer zu verstehen fand. Am Anfang hatte ich für alles sehr lange und es brauchte seine Zeit.
+Sehr lange hatte ich bis ich mich einloggen konnte, als es dann endlich funktioniert hat, hatte ich auch shcon das nächste Problem mit dem posten von Blogs.
+Zum Glück konnte ich aber auch dieses Problem lösen nache einiger Zeit.
 Gegen Ende gingen zwar einige Sachen etwas schneller und es funktionierte das meiste gut. Doch die Rollenvergebung funktionierte nicht und trotz langem versuchen hat es nicht richtig geklappt.
